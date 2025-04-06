@@ -45,7 +45,7 @@ if user_type == "Жилец":
 # --- Просмотр всех заявок ---
 st.header("Все заявки")
 if not st.session_state.tickets:
-    st.info("Заявок пока нет.")
+    st.info("Заявок пока нет.") 
 else:
     for ticket in st.session_state.tickets:
         with st.expander(f"{ticket['id']} | {ticket['title']} [{ticket['status']}]"):
