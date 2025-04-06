@@ -17,7 +17,7 @@
 - `.github/ISSUE_TEMPLATE/` — шаблон задач
 - `src/` — код проекта (если будет)
 - `dashboard.xlsx` — метрики
-<img src="docs/FinalStat.png" width="500" height="300" />
+<img src="docs/FinalStat.png" width="400" height="220" />
 
 
 ## 🧑‍🤝‍🧑 Команда
