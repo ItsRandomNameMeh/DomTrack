@@ -1,6 +1,6 @@
 # Команда проекта
 
-- **Scrum Master**: Александр Бакеев
+- **Project Manager/Scrum Master**: Александр Бакеев
 - **Product Owner**: Юлия Михайлова
 - **Разработчики**:
   - Чесноков Дмитрий (Frontend)
